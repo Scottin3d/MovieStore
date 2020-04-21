@@ -1,0 +1,207 @@
+Start readCommandsTest
+======================
+Could not add
+Could not add
+Executing Commands....
+Stock: 10/10          Title: The Maltese Falcon                      Director: John Huston         Year Released: 10 1941   Major Actor: Humphrey Bogart     
+Stock: 10/10          Title: It's a Wonderful Life                   Director: Frank Capra         Year Released: 11 1946   Major Actor: Donna Reed          
+Stock: 10/10          Title: It's a Wonderful Life                   Director: Frank Capra         Year Released: 11 1946   Major Actor: James Steward       
+Stock: 10/10          Title: Gone With the Wind                      Director: Victor Fleming      Year Released: 2 1939    Major Actor: Clark Gable         
+Stock: 10/10          Title: Gone With the Wind                      Director: Victor Fleming      Year Released: 2 1939    Major Actor: Vivien Leigh        
+Stock: 10/10          Title: A Clockwork Orange                      Director: Stanley Kubrick     Year Released: 2 1971    Major Actor: Malcolm McDowell    
+Stock: 10/10          Title: Harold and Maude                        Director: Hal Ashby           Year Released: 3 1971    Major Actor: Ruth Gordon         
+Stock: 10/10          Title: The Philadelphia Story                  Director: George Cukor        Year Released: 5 1940    Major Actor: Cary Grant          
+Stock: 10/10          Title: The Philadelphia Story                  Director: George Cukor        Year Released: 5 1940    Major Actor: Katherine Hepburn   
+Stock: 10/10          Title: The Wizard of Oz                        Director: Victor Fleming      Year Released: 7 1939    Major Actor: Judy Garland        
+Stock: 10/10          Title: Casablanca                              Director: Michael Curtiz      Year Released: 8 1942    Major Actor: Humphrey Bogart     
+Stock: 10/10          Title: Casablanca                              Director: Michael Curtiz      Year Released: 8 1942    Major Actor: Ingrid Bergman      
+Stock: 10/10          Title: Holiday                                 Director: George Cukor        Year Released: 9 1938    Major Actor: Cary Grant          
+Stock: 10/10          Title: Holiday                                 Director: George Cukor        Year Released: 9 1938    Major Actor: Katherine Hepburn   
+Stock: 10/10          Title: Good Morning Vietnam                    Director: Barry Levinson      Year Released: 1988      Major Actor:                     
+Stock: 10/10          Title: Same Director Good Morning Vietnam      Director: Barry Levinson      Year Released: 1988      Major Actor:                     
+Stock: 10/10          Title: Unforgiven                              Director: Clint Eastwood      Year Released: 1992      Major Actor:                     
+Stock: 10/10          Title: Good Will Hunting                       Director: Gus Van Sant        Year Released: 2000      Major Actor:                     
+Stock: 10/10          Title: Silence of the Lambs                    Director: Jonathan Demme      Year Released: 1991      Major Actor:                     
+Stock: 10/10          Title: Dogfight                                Director: Nancy Savoca        Year Released: 1991      Major Actor:                     
+Stock: 10/10          Title: King of Hearts                          Director: Phillippe De Broca  Year Released: 1967      Major Actor:                     
+Stock: 10/10          Title: Schindler's List                        Director: Steven Spielberg    Year Released: 1993      Major Actor:                     
+Stock: 10/10          Title: Annie Hall                              Director: Woody Allen         Year Released: 1977      Major Actor:                     
+Stock: 10/10          Title: Fargo                                   Director: Joel Coen           Year Released: 1996      Major Actor:                     
+Stock: 10/10          Title: National Lampoon's Animal House         Director: John Landis         Year Released: 1978      Major Actor:                     
+Stock: 10/10          Title: Pirates of the Caribbean                Director: Different Years     Year Released: 2000      Major Actor:                     
+Stock: 10/10          Title: Pirates of the Caribbean                Director: Gore Verbinski      Year Released: 2003      Major Actor:                     
+Stock: 10/10          Title: Sleepless in Seattle                    Director: Nora Ephron         Year Released: 1993      Major Actor:                     
+Stock: 10/10          Title: When Harry Met Sally                    Director: Rob Reiner          Year Released: 1989      Major Actor:                     
+Stock: 10/10          Title: You've Got Mail                         Director: Nora Ephron         Year Released: 1998      Major Actor:                     
+Printing Mouse Minnie Rental History...
+Rentals:
+
+Returns:
+Printing Frog Freddie Rental History...
+Rentals:
+
+Returns:
+Printing Wacky Wally Rental History...
+Rentals:
+
+Returns:
+Movie Checked out. Stock at: 9/10
+Rental Recorded.
+Movie Checked out. Stock at: 9/10
+Rental Recorded.
+Movie Checked out. Stock at: 9/10
+Rental Recorded.
+Movie Checked out. Stock at: 9/10
+Rental Recorded.
+Movie Checked out. Stock at: 9/10
+Rental Recorded.
+Movie Checked out. Stock at: 9/10
+Rental Recorded.
+Movie not found...
+Movie returned...
+Movie Checked out. Stock at: 9/10
+Rental Recorded.
+Movie Checked out. Stock at: 8/10
+Rental Recorded.
+Movie not found...
+Movie Checked out. Stock at: 8/10
+Rental Recorded.
+Movie not found...
+Movie returned...
+Movie Checked out. Stock at: 9/10
+Rental Recorded.
+Movie Checked out. Stock at: 9/10
+Rental Recorded.
+Movie not found...
+Movie returned...
+Movie Checked out. Stock at: 9/10
+Rental Recorded.
+Movie Checked out. Stock at: 7/10
+Rental Recorded.
+Movie Checked out. Stock at: 6/10
+Rental Recorded.
+Movie Checked out. Stock at: 9/10
+Rental Recorded.
+Movie Checked out. Stock at: 9/10
+Rental Recorded.
+Movie not found...
+Movie returned...
+Movie Checked out. Stock at: 8/10
+Rental Recorded.
+Movie Checked out. Stock at: 5/10
+Rental Recorded.
+Movie Checked out. Stock at: 9/10
+Rental Recorded.
+Movie Checked out. Stock at: 4/10
+Rental Recorded.
+Bad command...
+Movie Checked out. Stock at: 9/10
+Rental Recorded.
+Movie Checked out. Stock at: 3/10
+Rental Recorded.
+Movie Checked out. Stock at: 9/10
+Rental Recorded.
+Movie Checked out. Stock at: 9/10
+Rental Recorded.
+Movie not found...
+Movie returned...
+Bad command...
+Movie Checked out. Stock at: 2/10
+Rental Recorded.
+Movie Checked out. Stock at: 9/10
+Rental Recorded.
+Movie Checked out. Stock at: 1/10
+Rental Recorded.
+Movie Checked out. Stock at: 0/10
+Rental Recorded.
+Movie not in stock...
+Movie Checked out. Stock at: 8/10
+Rental Recorded.
+Movie Checked out. Stock at: 9/10
+Rental Recorded.
+Movie Checked out. Stock at: 9/10
+Rental Recorded.
+Movie not found...
+Movie Checked out. Stock at: 8/10
+Rental Recorded.
+Movie not in stock...
+Movie not in stock...
+Movie not in stock...
+Movie not in stock...
+Movie not in stock...
+Movie not found...
+Stock: 9/10           Title: The Maltese Falcon                      Director: John Huston         Year Released: 10 1941   Major Actor: Humphrey Bogart     
+Stock: 10/10          Title: It's a Wonderful Life                   Director: Frank Capra         Year Released: 11 1946   Major Actor: Donna Reed          
+Stock: 10/10          Title: It's a Wonderful Life                   Director: Frank Capra         Year Released: 11 1946   Major Actor: James Steward       
+Stock: 10/10          Title: Gone With the Wind                      Director: Victor Fleming      Year Released: 2 1939    Major Actor: Clark Gable         
+Stock: 10/10          Title: Gone With the Wind                      Director: Victor Fleming      Year Released: 2 1939    Major Actor: Vivien Leigh        
+Stock: 8/10           Title: A Clockwork Orange                      Director: Stanley Kubrick     Year Released: 2 1971    Major Actor: Malcolm McDowell    
+Stock: Out of Stock   Title: Harold and Maude                        Director: Hal Ashby           Year Released: 3 1971    Major Actor: Ruth Gordon         
+Stock: 9/10           Title: The Philadelphia Story                  Director: George Cukor        Year Released: 5 1940    Major Actor: Cary Grant          
+Stock: 9/10           Title: The Philadelphia Story                  Director: George Cukor        Year Released: 5 1940    Major Actor: Katherine Hepburn   
+Stock: 10/10          Title: The Wizard of Oz                        Director: Victor Fleming      Year Released: 7 1939    Major Actor: Judy Garland        
+Stock: 10/10          Title: Casablanca                              Director: Michael Curtiz      Year Released: 8 1942    Major Actor: Humphrey Bogart     
+Stock: 10/10          Title: Casablanca                              Director: Michael Curtiz      Year Released: 8 1942    Major Actor: Ingrid Bergman      
+Stock: 9/10           Title: Holiday                                 Director: George Cukor        Year Released: 9 1938    Major Actor: Cary Grant          
+Stock: 10/10          Title: Holiday                                 Director: George Cukor        Year Released: 9 1938    Major Actor: Katherine Hepburn   
+Stock: 9/10           Title: Good Morning Vietnam                    Director: Barry Levinson      Year Released: 1988      Major Actor:                     
+Stock: 10/10          Title: Same Director Good Morning Vietnam      Director: Barry Levinson      Year Released: 1988      Major Actor:                     
+Stock: 9/10           Title: Unforgiven                              Director: Clint Eastwood      Year Released: 1992      Major Actor:                     
+Stock: 9/10           Title: Good Will Hunting                       Director: Gus Van Sant        Year Released: 2000      Major Actor:                     
+Stock: 9/10           Title: Silence of the Lambs                    Director: Jonathan Demme      Year Released: 1991      Major Actor:                     
+Stock: 8/10           Title: Dogfight                                Director: Nancy Savoca        Year Released: 1991      Major Actor:                     
+Stock: 9/10           Title: King of Hearts                          Director: Phillippe De Broca  Year Released: 1967      Major Actor:                     
+Stock: 9/10           Title: Schindler's List                        Director: Steven Spielberg    Year Released: 1993      Major Actor:                     
+Stock: 9/10           Title: Annie Hall                              Director: Woody Allen         Year Released: 1977      Major Actor:                     
+Stock: 8/10           Title: Fargo                                   Director: Joel Coen           Year Released: 1996      Major Actor:                     
+Stock: 9/10           Title: National Lampoon's Animal House         Director: John Landis         Year Released: 1978      Major Actor:                     
+Stock: 10/10          Title: Pirates of the Caribbean                Director: Different Years     Year Released: 2000      Major Actor:                     
+Stock: 10/10          Title: Pirates of the Caribbean                Director: Gore Verbinski      Year Released: 2003      Major Actor:                     
+Stock: 9/10           Title: Sleepless in Seattle                    Director: Nora Ephron         Year Released: 1993      Major Actor:                     
+Stock: 9/10           Title: When Harry Met Sally                    Director: Rob Reiner          Year Released: 1989      Major Actor:                     
+Stock: 8/10           Title: You've Got Mail                         Director: Nora Ephron         Year Released: 1998      Major Actor:                     
+Printing Mouse Minnie Rental History...
+Rentals:
+	Good Morning Vietnam
+	The Philadelphia Story
+	Good Will Hunting
+	The Philadelphia Story
+	Harold and Maude
+	Fargo
+
+Returns:
+Printing Mouse Mickey Rental History...
+Rentals:
+	A Clockwork Orange
+	Harold and Maude
+	The Maltese Falcon
+	Holiday
+
+Returns:
+Printing Frog Freddie Rental History...
+Rentals:
+	Harold and Maude
+	Harold and Maude
+	Harold and Maude
+	Harold and Maude
+
+Returns:
+Printing Wacky Wally Rental History...
+Rentals:
+	You've Got Mail
+	Harold and Maude
+	Harold and Maude
+	National Lampoon's Animal House
+
+Returns:
+Printing Pig Porky Rental History...
+Rentals:
+	Annie Hall
+	When Harry Met Sally
+	Silence of the Lambs
+	Dogfight
+	Harold and Maude
+
+Returns:
+End readCommandsTest
+Done.
